@@ -1,0 +1,4 @@
+input_uri,input_owner,expected_width,expected_face_count, expected_focal_point[width],expected_focal_point[height]
+http://thm-usa.dnsalias.com/website/photogallery/thecrew.jpg,timmah,3264,5, 1632, 1224
+http://thm-usa.dnsalias.com/website/photogallery/exif_gps.jpg,jimmah,3264,1, 1632, 1224
+http://thm-usa.dnsalias.com/website/photogallery/exif.jpg,jimmmaah,500,0, 250, 142
